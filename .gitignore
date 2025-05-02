@@ -1,0 +1,7 @@
+/model
+*.keras
+*.pkl
+.venv
+/data
+
+/HindiSeg
