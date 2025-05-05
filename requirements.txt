@@ -1,3 +1,9 @@
 kagglehub==0.3.12
-tensorflow==2.18.1
-pandas
+streamlit==1.22.0
+tensorflow==2.16.1  # Latest stable version with Python 3.12 support
+numpy==1.26.4       # Updated for Python 3.12 compatibility
+pandas==2.2.1       # Modern version
+Pillow==10.2.0      # Updated version
+opencv-python==4.9.0.80
+scikit-learn==1.4.1.post1
+protobuf==3.20.3    # Required for TensorFlow compatibility

@@ -5,3 +5,7 @@
 /data
 
 /HindiSeg
+
+*.pkl
+*.npy
+*.keras
